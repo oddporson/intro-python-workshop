@@ -2,4 +2,4 @@
 
 ###
 
-Took advantage of the workshop to learn python programming and visually see the difference between python and javascript
+Took advantage of the workshop to learn basic python programming and visually see the difference between python and javascript
